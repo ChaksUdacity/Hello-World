@@ -1,2 +1,3 @@
 # Hello-World
 Learning how to create repository
+Hi, I am just practising to learn GitHub...
